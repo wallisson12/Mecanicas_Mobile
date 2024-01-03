@@ -24,7 +24,7 @@ Ao fornecer um conjunto diversificado de funcionalidades, pretendemos acelerar o
 
 <br>
 
-<li> <b>Dotween:</b> **********.</li>
+<li> <b>Dotween:</b> Asset para melhorar a maneira de realizar animações.</li>
 
 <br>
 
@@ -45,4 +45,5 @@ Ao fornecer um conjunto diversificado de funcionalidades, pretendemos acelerar o
 
 <br>
 
-<li> <b>Water & Shader:</b> **********.</li>
+<li> <b>Water & Shader:</b> Asset de Water com todos os efeitos de água, e a utilização de Shaders para fazer o efeito de refleção e ondulações.
+Precisa ter o URP para funcionar</li>
