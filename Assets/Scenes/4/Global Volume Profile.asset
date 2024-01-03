@@ -36,10 +36,10 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.289
+    m_Value: 0.311
   smoothness:
     m_OverrideState: 1
-    m_Value: 0.446
+    m_Value: 0.293
   rounded:
     m_OverrideState: 1
     m_Value: 1
@@ -61,7 +61,7 @@ MonoBehaviour:
     m_Value: 0.9
   intensity:
     m_OverrideState: 1
-    m_Value: 9.79
+    m_Value: 6.63
   scatter:
     m_OverrideState: 0
     m_Value: 0.7
@@ -83,4 +83,4 @@ MonoBehaviour:
     dimension: 1
   dirtIntensity:
     m_OverrideState: 1
-    m_Value: 1.4
+    m_Value: 2.55
