@@ -16,11 +16,11 @@ Ao fornecer um conjunto diversificado de funcionalidades, pretendemos acelerar o
 
 <br>
 
-<li> <b>New InputSystem:</b> Mecânica de movimentação fluida, com o novo sistema de input system e física básica.</li>
+<li> <b>New InputSystem:</b> Mecânica de movimentação fluida, com o novo sistema de input system, callbacks, e física básica.</li>
 
 <br>
 
-<li> <b>Salvamento Binário:</b> **********.</li>
+<li> <b>Salvamento Binário:</b> Sistema de salvamento por arquivo binário, mais seguro que o PlayerPrefs.</li>
 
 <br>
 
@@ -37,11 +37,11 @@ Ao fornecer um conjunto diversificado de funcionalidades, pretendemos acelerar o
 
 <br>
 
-<li> <b>CutScenes:</b> **********.</li>
+<li> <b>CutScenes:</b> Sistema de CutScene utilizando o Cinemachine, TimeLine.</li>
 
 <br>
 
-<li> <b>Shadows:</b> **********.</li>
+<li> <b>Shadows:</b> Sistema de sombra utilizando, ShadowCaster2D, tanto no tilemap quanto em objetos na cena. Precisa ter o URP, marcar sombra na luz que for utilizar</li>
 
 <br>
 
