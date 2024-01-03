@@ -28,11 +28,12 @@ Ao fornecer um conjunto diversificado de funcionalidades, pretendemos acelerar o
 
 <br>
 
-<li> <b>Post Processing:</b> **********.</li>
+<li> <b>Post Processing:</b> Efeito de filtro na camera, no intuito de melhorar o visual do jogo.
+  Caso esteja usando URP vai ter que mudar a maneira de usar o PP ***.</li>
 
 <br>
 
-<li> <b>Cinemachine:</b> **********.</li>
+<li> <b>Cinemachine:</b> Sistema de controle de camera 2D e a extensão, confiner2D, para limitar a visualização da camera e o objeto criado tem que possuir um colisor polygon e referenciar na camera.</li>
 
 <br>
 
