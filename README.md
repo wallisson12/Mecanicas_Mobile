@@ -29,7 +29,7 @@ Ao fornecer um conjunto diversificado de funcionalidades, pretendemos acelerar o
 <br>
 
 <li> <b>Post Processing:</b> Efeito de filtro na camera, no intuito de melhorar o visual do jogo.
-  Caso esteja usando URP vai ter que mudar a maneira de usar o PP ***.</li>
+  Caso esteja usando URP vai ter que mudar a maneira de usar o PP, vai ter que utilizar o Global Volume e marcar post processing na camera e HDR.</li>
 
 <br>
 
